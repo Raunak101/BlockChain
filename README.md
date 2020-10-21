@@ -1,2 +1,3 @@
 # BlockChain
-Concept of BlockChain Implemented using Object Oriented Approach 
+Concept of BlockChain Implemented using Core JS & Jest Framework
+
